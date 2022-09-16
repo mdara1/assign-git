@@ -1,0 +1,4 @@
+1.gitignore is a file that includes the names of the files/folders that should be ignored when pushing to remote. for java, we include class files, log files(.log), package files(.jar,.war,.nar, etc)
+2.fast forward means skipping commits when your branch to be merged is can be directly traced back to the branch you are merging with.
+3.To accomodate parellel contribution to the source code repo
+4.Typically one, we can have multiple repos based on the design of the project.
